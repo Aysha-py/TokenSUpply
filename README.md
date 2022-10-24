@@ -1,4 +1,4 @@
-#W3L week 5 Assignment
+# W3L week 5 Assignment
 
 This smart contract suppies a token of 100000000 immediately it is compiled with token name Aisha and token symbol AM
 
