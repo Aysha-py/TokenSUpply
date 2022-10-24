@@ -35,6 +35,10 @@ contract myToken{
    			return _totalSupply ;
 		
     }
+      function balanceOf(address account) public view virtual  returns (uint256) {
+        return _balances[account];
+    }
+
 			
 
 		
